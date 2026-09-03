@@ -187,20 +187,6 @@ Short description of another project, preferably something demonstrating product
 
 ---
 
-## 📌 GitHub Overview
-
-<p align="center">
-
-<img src="https://img.shields.io/github/public-repos/devsubhamdas?label=Public%20Repositories&style=for-the-badge&logo=github" />
-
-<img src="https://img.shields.io/github/commit-activity/y/devsubhamdas/go-rest-api?label=Commit%20Activity&style=for-the-badge&logo=git" />
-
-<img src="https://img.shields.io/github/last-commit/devsubhamdas/go-rest-api?label=Latest%20Commit&style=for-the-badge&logo=github" />
-
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
