@@ -125,7 +125,7 @@ Here are some projects I'm currently building or particularly proud of:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚀 Go REST API
 
@@ -136,7 +136,7 @@ Powerd by PostgresSQL.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ✈️ Travel CRM/HRM
 
@@ -148,7 +148,7 @@ A full-stack Travel CRM & HRM platform designed to centralize and manage the com
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💼 Job Portal
 
@@ -158,7 +158,7 @@ A full-stack job portal that connects job seekers and administrators through a c
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎬 Kinetix
 
