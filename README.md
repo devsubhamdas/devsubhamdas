@@ -141,15 +141,11 @@ A production-oriented REST API built while exploring Go backend development, cle
 
 <td width="50%">
 
-### 🧩 Project Name
+### ✈️ Travel CRM/HRM
 
-Short description of another project that demonstrates your engineering skills, architecture or problem-solving ability.
+A full-stack Travel CRM & HRM platform designed to centralize and manage the complete back-office operations of a travel agency — from customer and booking management to employee administration and internal operations.
 
-**Tech:** Angular · NestJS · PostgreSQL
-
-<a href="https://github.com/devsubhamdas">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-</a>
+**Tech:** Angular · NestJS · MySQL · Prisma · TypeScript
 
 </td>
 </tr>
@@ -157,29 +153,21 @@ Short description of another project that demonstrates your engineering skills, 
 <tr>
 <td width="50%">
 
-### ⚡ Project Name
+### 💼 Job Portal
 
-Short description highlighting what makes this project interesting or technically challenging.
+A full-stack job portal that connects job seekers and administrators through a centralized recruitment platform. Admins can create and manage job listings, while users can browse available opportunities, apply for jobs, and track the status of their applications.
 
-**Tech:** React · Node.js · Redis
-
-<a href="https://github.com/devsubhamdas">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-</a>
+**Tech:** Angular · Express.js · Apollo Server · GraphQL · PostgreSQL · TypeScript
 
 </td>
 
 <td width="50%">
 
-### 🔧 Project Name
+### 🎬 Kinetix
 
-Short description of another project, preferably something demonstrating production or real-world development.
+An on-demand video streaming platform that enables users to create and manage their own channels, upload and stream videos, subscribe to channels, and engage with content through comments, likes, and dislikes.
 
-**Tech:** Next.js · TypeScript · AWS
-
-<a href="https://github.com/devsubhamdas">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-</a>
+**Tech:** React · Express.js · JavaScript · MongoDB · Redux Toolkit · RTK Query
 
 </td>
 </tr>
