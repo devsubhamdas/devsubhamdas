@@ -26,10 +26,10 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 
 * 🔭 Currently building and experimenting with **Go backend applications**
 * 🌱 Currently learning **Go, AWS & CI/CD**
-* 💬 Ask me about **Angular, TypeScript, Node.js, NestJS, Express.js & Go**
+* 💬 Ask me about **Angular, NestJS, Express.js, Node.js, TypeScript, Javascript & Go**
 * ⚙️ Interested in **backend architecture, APIs, databases, cloud & system design**
 * 🧠 Always learning something new
-* ⚡ Fun fact: I enjoy **Cricket, Football and cooking** 🍳
+* ⚡ Fun fact: I enjoy **Cricket, Football and Cooking** 🏏⚽🧑‍🍳
 
 ---
 
@@ -160,11 +160,11 @@ A full-stack job portal that connects job seekers and administrators through a c
 
 <td width="50%" valign="top">
 
-### 🎬 Kinetix
+### 🎬 Kinetix 
 
 An on-demand video streaming platform that enables users to create and manage their own channels, upload and stream videos, subscribe to channels, and engage with content through comments, likes, and dislikes.
 
-**Tech:** React · Express.js · JavaScript · MongoDB · Redux Toolkit · RTK Query
+**Tech:** React · Express.js · JavaScript · Redux Toolkit · RTK Query · MongoDB · Cloudinary
 
 </td>
 </tr>
