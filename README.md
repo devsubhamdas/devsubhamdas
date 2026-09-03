@@ -176,7 +176,7 @@ An on-demand video streaming platform that enables users to create and manage th
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/dev-subham-das/" target="_blank" style="text-decoration:none;">
+<a href="https://www.linkedin.com/in/dev-subham-das/" target="_blank" style="text-decoration:none; display:inline-block">
   <img
     src="https://skillicons.dev/icons?i=linkedin"
     width="45"
@@ -184,7 +184,7 @@ An on-demand video streaming platform that enables users to create and manage th
   />
 </a>
 
-<a href="mailto:das198subham@gmail.com" style="text-decoration:none;">
+<a href="mailto:das198subham@gmail.com" style="text-decoration:none; display: inline-block">
   <img
     src="https://skillicons.dev/icons?i=gmail"
     width="45"
