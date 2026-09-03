@@ -138,7 +138,7 @@ Powerd by PostgresSQL.
 
 <td width="50%" valign="top">
 
-### ✈️ Travel CRM/HRM
+### 🌎 Travel CRM/HRM
 
 A full-stack Travel CRM & HRM platform designed to centralize and manage the complete back-office operations of a travel agency — from customer and booking management to employee administration and internal operations.
 
