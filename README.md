@@ -133,10 +133,6 @@ A production-oriented REST API built while exploring Go backend development, cle
 
 **Tech:** Go · PostgreSQL · GORM · Docker
 
-<a href="https://github.com/devsubhamdas/go-rest-api">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-</a>
-
 </td>
 
 <td width="50%">
