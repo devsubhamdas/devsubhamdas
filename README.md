@@ -63,31 +63,21 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=devsubhamdas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-    alt="GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsubhamdas&layout=compact&hide_border=true&langs_count=8"
-    alt="Top Languages"
-    height="180"
-  />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=devsubhamdas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ---
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=devsubhamdas&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
+![](https://streak-stats.demolab.com/?user=devsubhamdas&theme=dark&hide_border=false)
+
+---
+
+## 🧑‍💻 Top Languages 
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=devsubhamdas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
