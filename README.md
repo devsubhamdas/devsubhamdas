@@ -5,15 +5,11 @@ Full-Stack Developer • TypeScript • Angular • Node.js • Go
 </h3>
 
 <p align="center">
-  <a href="https://github.com/devsubhamdas" style="text-decoration:none;">
-    <img src="https://komarev.com/ghpvc/?username=devsubhamdas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/devsubhamdas?tab=followers" style="text-decoration:none;">
-    <img src="https://img.shields.io/github/followers/devsubhamdas?label=Followers&style=flat" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/devsubhamdas?tab=repositories" style="text-decoration:none;">
-    <img src="https://img.shields.io/github/stars/devsubhamdas?label=Stars&style=flat" alt="GitHub Stars" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=devsubhamdas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+  <img src="https://img.shields.io/github/followers/devsubhamdas?label=Followers&style=flat" alt="GitHub Followers" />
+
+  <img src="https://img.shields.io/github/stars/devsubhamdas?label=Stars&style=flat" alt="GitHub Stars" />
 </p>
 
 ---
