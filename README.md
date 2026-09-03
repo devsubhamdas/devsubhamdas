@@ -129,7 +129,8 @@ Here are some projects I'm currently building or particularly proud of:
 
 ### 🚀 Go REST API
 
-A production-oriented REST API built while exploring Go backend development, clean architecture and PostgreSQL.
+A production-oriented REST API built while exploring Go backend development, domain first moduls and highly scalable clean architecture.
+Powerd by PostgresSQL.
 
 **Tech:** Go · PostgreSQL · GORM · Docker
 
