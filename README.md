@@ -65,7 +65,7 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 
 ## 📊 GitHub Analytics
 
-![](https://github-readme-stats.shion.dev/api?username=devsubhamdas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=devsubhamdas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ---
 
@@ -77,7 +77,7 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 
 ## 🧑‍💻 Top Languages 
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=devsubhamdas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=devsubhamdas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
 
 ---
 
