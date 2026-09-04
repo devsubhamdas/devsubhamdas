@@ -27,7 +27,7 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 
 ---
 
-## Tech Stack 📜🎨⚙️🗄️📝🔍🐞☁️🐳
+## Tech Stack <small>📜🐹🎨⚙️🗄️📝🔍🐞☁️🐳</small>
 
 ### Languages
 
