@@ -98,7 +98,7 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 
 ## 📈 Contribution Activity
 
-![](https://github-activity-chart.vercel.app/graph?username=devsubhamdas&days=15&height=500&hide_border=true&border_color=FFFFFF&radius=16&bg_color=000000&color=FFF3A6&title_color=00EAD3&line=FF43A1&point=00EAD3)
+![](https://github-activity-chart.vercel.app/graph?username=devsubhamdas&days=15&height=500&hide_border=true&radius=16&bg_color=000000&color=FFF3A6&title_color=00EAD3&line=FF43A1&point=00EAD3)
 
 <!-- <p align="center">
   <a href="https://github.com/devsubhamdas">
