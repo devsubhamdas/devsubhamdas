@@ -29,7 +29,7 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 
 ## Tech Stack 📜🐹🎨⚙️🗄️📝🔍🐞☁️🐳
 
-### Languages
+### Programming Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
