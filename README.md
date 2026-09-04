@@ -175,7 +175,10 @@ An on-demand video streaming platform that enables users to create and manage th
 
 ## 🤝 Connect With Me
 
-<p align="left">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dev-subham-das/) 
+[![email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:das198subham@gmail.com) 
+
+<!-- <p align="left">
   
 <a href="https://www.linkedin.com/in/dev-subham-das/" target="_blank">
   <img
@@ -191,7 +194,7 @@ An on-demand video streaming platform that enables users to create and manage th
   />
 </a>
 
-</p>
+</p> -->
 
 ---
 
