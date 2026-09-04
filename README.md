@@ -98,7 +98,7 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 
 ## 📈 Contribution Activity
 
-[![](https://github-activity-chart.vercel.app/graph?username=devsubhamdas&theme=elegant&days=15)]
+![](https://github-activity-chart.vercel.app/graph?username=devsubhamdas&theme=elegant&hide_border=false&days=15)
 
 <!-- <p align="center">
   <a href="https://github.com/devsubhamdas">
