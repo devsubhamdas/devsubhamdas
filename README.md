@@ -6,9 +6,7 @@ Full-Stack Developer • TypeScript • Angular • Node.js • Go
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devsubhamdas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
   <img src="https://img.shields.io/github/followers/devsubhamdas?label=Followers&style=flat" alt="GitHub Followers" />
-
   <img src="https://img.shields.io/github/stars/devsubhamdas?label=Stars&style=flat" alt="GitHub Stars" />
 </p>
 
@@ -33,33 +31,50 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 
 ### Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,ts,js,html,css" />
-</p>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 
 ### Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,redux,tailwind" />
-</p>
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37) 
 
 ### Backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" />
-</p>
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 ### Databases & Caching
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) 
+
+### State Management & Reactive Programming
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=flat-square&logo=reactivex&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
+
+### Testing
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white) 
+![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat-square&logo=vitest&logoColor=FCC72B) 
 
 ### Cloud, DevOps & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,github,postman,figma" />
-</p>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) 
 
 ---
 
@@ -75,9 +90,9 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 
 ---
 
-## 🧑‍💻 Top Languages 
+## 📜 Top Languages 
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=devsubhamdas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut&langs_count=5)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=devsubhamdas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut&langs_count=10)
 
 ---
 
@@ -161,19 +176,17 @@ An on-demand video streaming platform that enables users to create and manage th
 ## 🤝 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/dev-subham-das/" target="_blank" style="text-decoration:none; display:inline-block">
+  
+<a href="https://www.linkedin.com/in/dev-subham-das/" target="_blank">
   <img
-    src="https://skillicons.dev/icons?i=linkedin"
-    width="45"
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
     alt="LinkedIn"
-  />
+    />
 </a>
 
-<a href="mailto:das198subham@gmail.com" style="text-decoration:none; display: inline-block">
+<a href="mailto:das198subham@gmail.com">
   <img
-    src="https://skillicons.dev/icons?i=gmail"
-    width="45"
+    src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"
     alt="Email"
   />
 </a>
