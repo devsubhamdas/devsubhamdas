@@ -63,9 +63,9 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 ![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=flat-square&logo=reactivex&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 
-### Testing
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white) 
-![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat-square&logo=vitest&logoColor=FCC72B) 
+### Test Runners
+![Jest](https://img.shields.io/badge/Jest-%23C21325?style=flat-square&logo=jest&logoColor=white) 
+![Vitest](https://img.shields.io/badge/Vitest-252529?style=flat-square&logo=vitest&logoColor=FCC72B) 
 
 ### Cloud, DevOps & Tools
 
