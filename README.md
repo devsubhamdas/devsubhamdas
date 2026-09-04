@@ -98,14 +98,16 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 
 ## 📈 Contribution Activity
 
-<p align="center">
+[![](https://github-activity-chart.vercel.app/graph?username=devsubhamdas&theme=elegant&days=15)]
+
+<!-- <p align="center">
   <a href="https://github.com/devsubhamdas">
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=devsubhamdas&hide_border=true"
       alt="GitHub Activity Graph"
     />
   </a>
-</p>
+</p> -->
 
 ---
 
