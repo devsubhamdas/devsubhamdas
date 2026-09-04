@@ -80,7 +80,7 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 
 ## 📊 GitHub Analytics
 
-![](https://github-readme-stats.shion.dev/api?username=devsubhamdas&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=devsubhamdas&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
 
 ---
 
