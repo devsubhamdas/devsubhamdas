@@ -50,6 +50,7 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) 
 ![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37) 
+![PrimeNG](https://img.shields.io/badge/PrimeNG-%23DD0031.svg?style=flat-square&logo=primeng&logoColor=white)
 
 ### Backend Frameworks
 
