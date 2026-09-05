@@ -57,6 +57,7 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
+![Gin](https://img.shields.io/badge/Gin-%23008ECF.svg?style=flat-square&logo=gin&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 ### Databases, Caching & ORM / ODM
