@@ -70,6 +70,7 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 
 ### State Management & Reactive Programming
 ![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=flat-square&logo=reactivex&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-%23BA2BD2.svg?style=flat-square&logo=ngrx&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 ![RTK Query](https://img.shields.io/badge/RTK%20Query-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 
