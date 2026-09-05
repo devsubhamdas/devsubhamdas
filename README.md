@@ -58,13 +58,15 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-### Databases, Caching & ORM
+### Databases, Caching & ORM / ODM
 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-%2300ADD8.svg?style=flat-square&logo=gorm&logoColor=white) 
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=flat-square&logo=mongoose&logoColor=white) 
 
 ### State Management & Reactive Programming
 ![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=flat-square&logo=reactivex&logoColor=white)
