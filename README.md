@@ -27,16 +27,15 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 
 ---
 
-## Tech Stack 📜🐹🎨⚙️🗄️📝🔍🐞☁️🐳
+## Things I Code With 📜🐹🎨⚙️🗄️📝🔍🐞☁️🐳
 
-### Programming Languages
+### Languages I Primarily Use 
 
-#### Primary 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 
-#### Familiar / Fundamentals
+### Languages I Am Familiar With 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23663399.svg?style=flat-square&logo=c&logoColor=white) 
