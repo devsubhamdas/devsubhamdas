@@ -51,7 +51,7 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37) 
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-%23DD0031.svg?style=flat-square&logo=primeng&logoColor=white)
 
-### Backend Frameworks
+### Backend Frameworks & Technologies 
 
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) 
