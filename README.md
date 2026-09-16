@@ -107,7 +107,7 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 ## 🔥 Contribution Streak
 
 <!-- ![](https://streak-stats.demolab.com/?user=devsubhamdas&theme=neon&hide_border=true) -->
-![](https://streak-stats.demolab.com/?user=devsubhamdas&theme=neon&hide_border=true)
+![](https://streak-stats.demolab.com/?user=devsubhamdas&theme=neon)
 
 ---
 
