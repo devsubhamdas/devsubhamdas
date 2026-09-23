@@ -136,10 +136,11 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img
+  <!-- <img
     src="https://github-profile-trophy.vercel.app/?username=devsubhamdas&theme=flat&no-frame=true&no-bg=true&margin-w=10"
     alt="GitHub Trophies"
-  />
+  /> -->
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=devsubhamdas&theme=radical" alt="GitHub Trophies" />
 </p>
 
 ---
