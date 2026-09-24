@@ -100,7 +100,9 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 
 ## 📊 GitHub Analytics
 
-![](https://github-readme-stats.shion.dev/api?username=devsubhamdas&theme=neon&hide_border=true&include_all_commits=false&count_private=false)
+<!-- ![](https://github-readme-stats.shion.dev/api?username=devsubhamdas&theme=neon&hide_border=true&include_all_commits=false&count_private=false) -->
+
+![](https://github-stats-extended.vercel.app/api?https://github-readme-stats.shion.dev/api?username=devsubhamdas&theme=neon&hide_border=true&include_all_commits=false&count_private=false)
 
 ---
 
