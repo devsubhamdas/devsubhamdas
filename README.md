@@ -100,9 +100,9 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 
 ## 📊 GitHub Analytics
 
-<!-- ![](https://github-readme-stats.shion.dev/api?username=devsubhamdas&theme=neon&hide_border=true&include_all_commits=false&count_private=false) -->
+<!-- ![GitHub Analytics](https://github-readme-stats.shion.dev/api?username=devsubhamdas&theme=neon&hide_border=true&include_all_commits=false&count_private=false) -->
 
-![](https://github-stats-extended.vercel.app/api?username=devsubhamdas&theme=neon&hide_border=true&include_all_commits=false&count_private=false)
+![GitHub Analytics](https://github-stats-extended.vercel.app/api?username=devsubhamdas&theme=neon&hide_border=true&include_all_commits=false&count_private=false)
 
 ---
 
@@ -116,7 +116,7 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 
 ## 📈 Contribution Activity
 
-![](https://github-activity-chart.vercel.app/graph?username=devsubhamdas&days=15&height=500&hide_border=true&radius=16&bg_color=000000&color=FFF3A6&title_color=00EAD3&line=FF43A1&point=00EAD3)
+![Contribution Activity](https://github-activity-chart.vercel.app/graph?username=devsubhamdas&days=15&height=500&hide_border=true&radius=16&bg_color=000000&color=FFF3A6&title_color=00EAD3&line=FF43A1&point=00EAD3)
 
 <!-- <p align="center">
   <a href="https://github.com/devsubhamdas">
@@ -133,7 +133,7 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 
 <!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=devsubhamdas&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=5) ->
 
-![](https://github-stats-extended.vercel.app/api/top-langs/?username=devsubhamdas&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=5)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=devsubhamdas&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=5)
 
 ---
 
@@ -144,7 +144,9 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
     src="https://github-profile-trophy.vercel.app/?username=devsubhamdas&theme=flat&no-frame=true&no-bg=true&margin-w=10"
     alt="GitHub Trophies"
   /> -->
+
 <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=devsubhamdas&theme=radical" alt="GitHub Trophies" />
+
 </p>
 
 ---
