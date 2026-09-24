@@ -131,7 +131,7 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 
 ## 📜 Top Languages 
 
-<!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=devsubhamdas&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=5) ->
+<!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=devsubhamdas&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=5) -->
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=devsubhamdas&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=5)
 
@@ -140,10 +140,9 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <!-- <img
-    src="https://github-profile-trophy.vercel.app/?username=devsubhamdas&theme=flat&no-frame=true&no-bg=true&margin-w=10"
-    alt="GitHub Trophies"
-  /> -->
+
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=devsubhamdas&theme=flat&no-frame=true&no-bg=true&margin-w=10"
+    alt="GitHub Trophies" /> -->
 
 <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=devsubhamdas&theme=radical" alt="GitHub Trophies" />
 
