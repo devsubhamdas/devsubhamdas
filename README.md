@@ -131,7 +131,9 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 
 ## 📜 Top Languages 
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=devsubhamdas&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=5)
+<!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=devsubhamdas&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=5) ->
+
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=devsubhamdas&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=5)
 
 ---
 
