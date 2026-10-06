@@ -163,6 +163,7 @@ Here are some projects I'm currently building or particularly proud of:
 A production-oriented REST API built while exploring Go backend development, implements domain first design, highly scalable, modular and clean architecture.
 
 **Tech:** Go · PostgreSQL · GORM · Docker
+
 **Repo:** [go-rest-api](https://github.com/devsubhamdas/go-rest-api-advanced)
 
 </td>
