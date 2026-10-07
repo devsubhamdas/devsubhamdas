@@ -164,7 +164,8 @@ A production-oriented REST API built while exploring Go backend development, imp
 
 **Tech:** Go · PostgreSQL · GORM · Docker
 
-**Repo:** [go-rest-api](https://github.com/devsubhamdas/go-rest-api-advanced)
+**Repo:** 
+[go-rest-api](https://github.com/devsubhamdas/go-rest-api-advanced)
 
 </td>
 
@@ -175,6 +176,10 @@ A production-oriented REST API built while exploring Go backend development, imp
 A full-stack Travel CRM & HRM platform designed to centralize and manage the complete back-office operations of a travel agency — from customer and booking management to employee administration and internal operations.
 
 **Tech:** Angular · NestJS · MySQL · Prisma · TypeScript
+
+**Repo:** 
+[travel-crm/hrm-ui](https://github.com/devsubhamdas/travel-crm-hrm-ui)
+[travel-crm/hrm-api](https://github.com/devsubhamdas/travel-crm-hrm-api)
 
 </td>
 </tr>
@@ -188,6 +193,10 @@ A full-stack job portal that connects job seekers and administrators through a c
 
 **Tech:** Angular · Express.js · Apollo Server · GraphQL · PostgreSQL · TypeScript
 
+**Repo:** 
+[job-portal-ui](https://github.com/devsubhamdas/job-portal-ui)
+[job-portal-api](https://github.com/devsubhamdas/job-portal-api-graphql)
+
 </td>
 
 <td width="50%" valign="top">
@@ -197,6 +206,10 @@ A full-stack job portal that connects job seekers and administrators through a c
 An on-demand video streaming platform that enables users to create and manage their own channels, upload and stream videos, subscribe to channels, and engage with content through comments, likes, and dislikes.
 
 **Tech:** React · Express.js · JavaScript · Redux Toolkit · RTK Query · MongoDB · Cloudinary
+
+**Repo:** 
+[kinetix-ui](https://github.com/devsubhamdas/kinetix-frontend)
+[kinetix-api](https://github.com/devsubhamdas/kinetix-backend)
 
 </td>
 </tr>
