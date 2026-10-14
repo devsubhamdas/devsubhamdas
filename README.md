@@ -19,7 +19,7 @@ I'm a **full-stack developer from Kolkata** who enjoys building scalable, mainta
 My primary experience is around the **TypeScript ecosystem**, especially Angular, Node.js, Express.js and NestJS. Recently, I've been diving deeper into **Go, backend architecture, cloud infrastructure and DevOps**.
 
 * 🔭 Currently building and experimenting with **Go backend applications**
-* 🌱 Currently learning **Go, AWS & CI/CD**
+* 🌱 Currently learning **AI Engineering, Go, AWS & CI/CD**
 * 💬 Ask me about **Angular, NestJS, Express.js, Node.js, TypeScript, Javascript & Go**
 * ⚙️ Interested in **backend architecture, APIs, databases, cloud & system design**
 * 🧠 Always learning something new
