@@ -20,7 +20,7 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 
 * 🔭 Currently building and experimenting with **Go backend applications**
 * 🌱 Currently learning **AI Engineering, Go, AWS & CI/CD**
-* 💬 Ask me about **Angular, NestJS, Express.js, Node.js, TypeScript, Javascript & Go**
+* 💬 Ask me about **Angular, React, Next.js, NestJS, Express.js, Node.js, TypeScript, JavaScript & Go**
 * ⚙️ Interested in **backend architecture, APIs, databases, cloud & system design**
 * 🧠 Always learning something new
 * ⚡ Fun fact: I enjoy **Cricket, Football and Cooking** 🏏⚽🧑‍🍳
