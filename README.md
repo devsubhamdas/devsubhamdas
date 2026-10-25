@@ -91,6 +91,7 @@ My primary experience is around the **TypeScript ecosystem**, especially Angular
 ![Render](https://img.shields.io/badge/Render-%23000000.svg?style=flat-square&logo=render&logoColor=white) 
 ![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=flat-square&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat-square&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=flat-square&logo=linux&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white) 
